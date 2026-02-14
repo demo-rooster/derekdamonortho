@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 28,
+          "green": 36,
+          "blue": 75,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#1C244B",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
+          "luminance": 0.02,
+          "luminancePercent": "2%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "contrastRatio": 14.96,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 0,
+          "green": 66,
+          "blue": 121,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#004279",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.05,
+          "luminancePercent": "5%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 10.22,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 139,
+          "green": 165,
+          "blue": 103,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#8BA567",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.33,
+          "luminancePercent": "33%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.68,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 111,
+          "green": 129,
+          "blue": 86,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#6f8156",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.2,
+          "luminancePercent": "20%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.95,
+          "wcagRating": "AA"
         }
       },
       {
@@ -77,7 +77,7 @@
           "blue": 255,
           "alpha": 1
         },
-        "hex": "#FFFFFF",
+        "hex": "#ffffff",
         "accessibility": {
           "luminance": 1,
           "luminancePercent": "100%",
@@ -123,94 +123,94 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 28,
+          "green": 36,
+          "blue": 75,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#1C244B",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.02,
+          "luminancePercent": "2%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 14.96,
+          "wcagRating": "AAA"
         }
       }
     ],
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'Poppins', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Open Sans', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://www.derekdamonortho.com/wp-content/uploads/2023/11/logo.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://www.derekdamonortho.com/wp-content/uploads/2023/11/logo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
+          "hex": "#004279",
+          "luminosity_percent": 5,
+          "count": 7
+        },
+        {
+          "hex": "#004179",
+          "luminosity_percent": 5,
+          "count": 7
+        },
+        {
+          "hex": "#00437a",
+          "luminosity_percent": 5,
+          "count": 4
+        },
+        {
+          "hex": "#00427a",
+          "luminosity_percent": 5,
+          "count": 4
+        },
+        {
+          "hex": "#89a366",
           "luminosity_percent": 32,
+          "count": 4
+        },
+        {
+          "hex": "#567d6d",
+          "luminosity_percent": 18,
           "count": 3
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
+          "hex": "#577e6e",
+          "luminosity_percent": 18,
           "count": 3
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
+          "hex": "#537c6e",
+          "luminosity_percent": 17,
           "count": 3
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
+          "hex": "#00427b",
+          "luminosity_percent": 5,
+          "count": 3
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
-        },
-        {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
-        },
-        {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
-        },
-        {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#567e6e",
+          "luminosity_percent": 18,
+          "count": 3
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#004279",
+      "avg_luminosity": 11.4,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://www.derekdamonortho.com/wp-content/uploads/2023/11/cropped-logo-32x32.png"
   }
 }
